@@ -1,2 +1,28 @@
-# 22516ee9-food-restaurant-inventory-an
-Built for food restaurant professionals who are tired of spending hours building a system before you can actually use it.  Fully documented: every section explained so you know exactly what to customize. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Food &amp; Restaurant Inventory And Asset Management —
+# Food & Restaurant Inventory and Asset Management Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZubJ16mXcYI8FG9rKcZL0F)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZubJ16mXcYI8FG9rKcZL0F)
+
